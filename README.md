@@ -1,0 +1,2 @@
+## ALICE : Artificial Latent-space Interactive Exploration
+### Welcome to ALICE (Artificial Latent-space Interactive Exploration)! ALICE is a tool that allows you to explore the latent space of a generative model       interactively. You can adjust latent vectors and visualize the corresponding outputs in 3D. Choose your model configuration and mode of operation below to get started.
